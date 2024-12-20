@@ -1,4 +1,4 @@
-# Serv00-Auto-Register
+# S-Register
 ----
 
 > 这是一个用来注册serv00的工具，它可以让你注册账号变得更容易通过。
